@@ -1,0 +1,9 @@
+* Counter-CLI
+
+  loop {
+  - Ask for input :
+  .    List items
+  ..   Add new item.
+  ...  Delete item.
+  .... Total item quantity.
+  }
